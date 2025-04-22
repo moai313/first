@@ -1,0 +1,528 @@
+[09:13:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[09:13:53][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 749 ms
+[09:13:53][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[09:13:53][INFO ][FrameworkServlet.java: 554] - Completed initialization in 977 ms
+[09:21:13][INFO ][BoardController.java: 35] - btop3.do run...
+[09:21:13][INFO ][NoticeController.java: 44] - ntop3.do run...
+[09:21:14][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:21:14][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:51:50][INFO ][NoticeController.java: 44] - ntop3.do run...
+[09:51:50][INFO ][BoardController.java: 35] - btop3.do run...
+[09:51:50][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:51:50][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:51:50][INFO ][BoardController.java: 35] - btop3.do run...
+[09:51:50][INFO ][NoticeController.java: 44] - ntop3.do run...
+[09:51:50][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:51:50][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[09:51:51][INFO ][BoardController.java: 35] - btop3.do run...
+[09:51:51][INFO ][NoticeController.java: 44] - ntop3.do run...
+[09:51:51][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[09:51:51][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:11:14][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:11:14][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 661 ms
+[10:11:14][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:11:15][INFO ][FrameworkServlet.java: 554] - Completed initialization in 956 ms
+[10:11:19][INFO ][BoardController.java: 35] - btop3.do run...
+[10:11:19][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:11:20][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:11:20][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:11:26][INFO ][MemberController.java: 126] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:11:26][INFO ][BoardController.java: 35] - btop3.do run...
+[10:11:26][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:11:26][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:11:26][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:11:27][INFO ][MemberController.java: 454] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[10:11:37][INFO ][MemberController.java: 454] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[10:12:48][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:12:48][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 636 ms
+[10:12:48][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:12:49][INFO ][FrameworkServlet.java: 554] - Completed initialization in 1005 ms
+[10:12:52][INFO ][MemberController.java: 454] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[10:12:59][INFO ][BoardController.java: 35] - btop3.do run...
+[10:12:59][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:12:59][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:12:59][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:13:04][INFO ][MemberController.java: 126] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:13:04][INFO ][BoardController.java: 35] - btop3.do run...
+[10:13:04][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:13:04][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:13:04][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:13:05][INFO ][MemberController.java: 454] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[10:39:26][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:39:26][INFO ][BoardController.java: 35] - btop3.do run...
+[10:39:26][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:39:26][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:28][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:39:28][INFO ][BoardController.java: 35] - btop3.do run...
+[10:39:28][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:28][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:39:33][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[10:39:33][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 690 ms
+[10:39:33][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[10:39:34][INFO ][FrameworkServlet.java: 554] - Completed initialization in 1014 ms
+[10:39:36][INFO ][BoardController.java: 35] - btop3.do run...
+[10:39:36][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:39:37][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:39:37][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:43][INFO ][MemberController.java: 126] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[10:39:43][INFO ][NoticeController.java: 44] - ntop3.do run...
+[10:39:43][INFO ][BoardController.java: 35] - btop3.do run...
+[10:39:43][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[10:39:43][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[10:39:44][INFO ][MemberController.java: 454] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[11:00:44][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[11:00:45][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSession' defined in class path resource [root-context.xml]: Failed to parse config resource: class path resource [mybatis-config.xml]
+[11:00:45][ERROR][ContextLoader.java: 294] - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSession' defined in class path resource [root-context.xml]: Failed to parse config resource: class path resource [mybatis-config.xml]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1149)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:394)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:274)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:126)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4049)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4477)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Failed to parse config resource: class path resource [mybatis-config.xml]
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:672)
+	at org.mybatis.spring.SqlSessionFactoryBean.afterPropertiesSet(SqlSessionFactoryBean.java:572)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	... 31 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'mappers/member-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'Search'.  Cause: java.lang.ClassNotFoundException: Cannot find class: Search
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:133)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:110)
+	at org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(SqlSessionFactoryBean.java:669)
+	... 34 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'mappers/member-mapper.xml'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'Search'.  Cause: java.lang.ClassNotFoundException: Cannot find class: Search
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:125)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:98)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mappersElement(XMLConfigBuilder.java:405)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:131)
+	... 36 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'Search'.  Cause: java.lang.ClassNotFoundException: Cannot find class: Search
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:103)
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:78)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:141)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:133)
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:123)
+	... 39 more
+Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'Search'.  Cause: java.lang.ClassNotFoundException: Cannot find class: Search
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:128)
+	at org.apache.ibatis.builder.BaseBuilder.resolveAlias(BaseBuilder.java:132)
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:101)
+	... 43 more
+Caused by: java.lang.ClassNotFoundException: Cannot find class: Search
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:226)
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:103)
+	at org.apache.ibatis.io.Resources.classForName(Resources.java:322)
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:124)
+	... 45 more
+[12:28:56][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:28:57][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 660 ms
+[12:28:57][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:28:58][INFO ][FrameworkServlet.java: 554] - Completed initialization in 969 ms
+[12:33:57][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:33:58][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 483 ms
+[12:33:58][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:33:59][INFO ][FrameworkServlet.java: 554] - Completed initialization in 745 ms
+[12:46:05][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:46:06][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 480 ms
+[12:46:06][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:46:07][INFO ][FrameworkServlet.java: 554] - Completed initialization in 733 ms
+[12:47:54][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:47:55][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 470 ms
+[12:47:55][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:47:55][INFO ][FrameworkServlet.java: 554] - Completed initialization in 706 ms
+[12:51:19][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:51:19][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 452 ms
+[12:51:19][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:51:20][INFO ][FrameworkServlet.java: 554] - Completed initialization in 749 ms
+[12:51:53][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:51:53][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 443 ms
+[12:51:53][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:51:54][INFO ][FrameworkServlet.java: 554] - Completed initialization in 735 ms
+[12:52:27][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:52:27][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 464 ms
+[12:52:27][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:52:28][INFO ][FrameworkServlet.java: 554] - Completed initialization in 759 ms
+[12:53:17][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[12:53:18][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 681 ms
+[12:53:18][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[12:53:19][INFO ][FrameworkServlet.java: 554] - Completed initialization in 994 ms
+[12:53:25][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:53:26][INFO ][BoardController.java: 35] - btop3.do run...
+[12:53:26][INFO ][NoticeController.java: 44] - ntop3.do run...
+[12:53:26][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:53:27][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:33][INFO ][MemberController.java: 128] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[12:53:33][INFO ][BoardController.java: 35] - btop3.do run...
+[12:53:33][INFO ][NoticeController.java: 44] - ntop3.do run...
+[12:53:33][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[12:53:33][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[12:53:38][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:54:14][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:54:15][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=N, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:54:46][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=N, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:54:47][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[12:55:56][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:30][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:31][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:40][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:41][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:41][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:42][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:49][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:12:53][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:46:05][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:46:05][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 683 ms
+[14:46:05][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:46:06][INFO ][FrameworkServlet.java: 554] - Completed initialization in 985 ms
+[14:46:11][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:46:12][INFO ][BoardController.java: 35] - btop3.do run...
+[14:46:12][INFO ][NoticeController.java: 44] - ntop3.do run...
+[14:46:12][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:46:12][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:46:13][INFO ][BoardController.java: 35] - btop3.do run...
+[14:46:13][INFO ][NoticeController.java: 44] - ntop3.do run...
+[14:46:13][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:46:13][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:46:20][INFO ][MemberController.java: 128] - login.do : Member [userId=admin, userPwd=admin, userName=null, gender=null, age=0, phone=null, email=null, enrollDate=null, lastModified=null, signType=null, adminYN=null, loginOk=null, photoFileName=null]
+[14:46:20][INFO ][BoardController.java: 35] - btop3.do run...
+[14:46:20][INFO ][NoticeController.java: 44] - ntop3.do run...
+[14:46:20][INFO ][NoticeController.java: 48] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[14:46:20][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[14:46:21][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[14:55:20][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:55:21][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 551 ms
+[14:55:21][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:55:21][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping': Failed to introspect Class [org.myweb.first.notice.controller.NoticeController] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+[14:55:21][ERROR][FrameworkServlet.java: 541] - Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping': Failed to introspect Class [org.myweb.first.notice.controller.NoticeController] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:706)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:720)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:595)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:537)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)
+	at jakarta.servlet.GenericServlet.init(GenericServlet.java:143)
+	at jakarta.servlet.http.HttpServlet.init(HttpServlet.java:121)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:837)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:794)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:698)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4224)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4511)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.myweb.first.notice.controller.NoticeController] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360)
+	at org.springframework.core.MethodIntrospector.selectMethods(MethodIntrospector.java:73)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:280)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	... 39 more
+Caused by: java.lang.NoClassDefFoundError: ModelAdnView
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 48 more
+Caused by: java.lang.ClassNotFoundException: ModelAdnView
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1378)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1187)
+	... 52 more
+[14:57:18][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:57:18][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 485 ms
+[14:57:18][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:57:19][INFO ][FrameworkServlet.java: 554] - Completed initialization in 704 ms
+[14:57:21][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[14:57:22][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 664 ms
+[14:57:22][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[14:57:23][INFO ][FrameworkServlet.java: 554] - Completed initialization in 966 ms
+[15:00:14][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:00:15][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 498 ms
+[15:00:15][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:00:16][INFO ][FrameworkServlet.java: 554] - Completed initialization in 779 ms
+[15:05:04][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:05:05][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 495 ms
+[15:05:05][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:05:06][INFO ][FrameworkServlet.java: 554] - Completed initialization in 800 ms
+[15:05:38][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:05:39][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 474 ms
+[15:05:39][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:05:40][INFO ][FrameworkServlet.java: 554] - Completed initialization in 755 ms
+[15:09:24][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:09:25][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 459 ms
+[15:09:25][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:09:26][INFO ][FrameworkServlet.java: 554] - Completed initialization in 775 ms
+[15:11:13][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:11:14][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 483 ms
+[15:11:14][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:11:14][INFO ][FrameworkServlet.java: 554] - Completed initialization in 789 ms
+[15:12:19][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:12:19][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 450 ms
+[15:12:19][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:12:20][INFO ][FrameworkServlet.java: 554] - Completed initialization in 735 ms
+[15:33:40][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:33:40][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 665 ms
+[15:33:40][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:33:41][INFO ][FrameworkServlet.java: 554] - Completed initialization in 963 ms
+[15:35:39][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:35:40][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 483 ms
+[15:35:40][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:35:41][WARN ][AbstractApplicationContext.java: 635] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+[15:35:41][ERROR][FrameworkServlet.java: 541] - Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeController': Unsatisfied dependency expressed through field 'noticeService': Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1155)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1121)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1056)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:987)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:706)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:672)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:720)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:595)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:537)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:169)
+	at jakarta.servlet.GenericServlet.init(GenericServlet.java:143)
+	at jakarta.servlet.http.HttpServlet.init(HttpServlet.java:121)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:837)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:794)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:698)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:4224)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4511)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3261)
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:234)
+	at org.apache.catalina.core.StandardContext.backgroundProcess(StandardContext.java:4832)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1172)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1176)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1154)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'noticeService': Unsatisfied dependency expressed through field 'noticeDao': Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:788)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:768)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:146)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1445)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 43 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'noticeDao': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:498)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:368)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1320)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1215)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:563)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:339)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:347)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1609)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1555)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:785)
+	... 56 more
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.myweb.first.notice.model.dao.NoticeDao] from ClassLoader [ParallelWebappClassLoader
+  context: first
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@5910e440
+]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:476)
+	... 68 more
+Caused by: java.lang.NoClassDefFoundError: Paging
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 70 more
+Caused by: java.lang.ClassNotFoundException: Paging
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1378)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1187)
+	... 74 more
+[15:35:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:35:52][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 503 ms
+[15:35:52][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:35:53][INFO ][FrameworkServlet.java: 554] - Completed initialization in 752 ms
+[15:36:47][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:36:47][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 455 ms
+[15:36:47][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:36:48][INFO ][FrameworkServlet.java: 554] - Completed initialization in 718 ms
+[15:37:21][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:37:21][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 482 ms
+[15:37:21][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:37:22][INFO ][FrameworkServlet.java: 554] - Completed initialization in 718 ms
+[15:37:39][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:37:39][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 720 ms
+[15:37:39][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:37:40][INFO ][FrameworkServlet.java: 554] - Completed initialization in 1004 ms
+[15:52:41][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:52:42][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 710 ms
+[15:52:42][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:52:43][INFO ][FrameworkServlet.java: 554] - Completed initialization in 904 ms
+[15:52:46][INFO ][MemberController.java: 456] - mlist.do : [Member [userId=user03, userPwd=$2a$10$w9Dbl36Q7NEoE1PAVNSVwO5Puu1F6HhFbLSv/oNMHNyQvbJtWEWjS, userName=공유, gender=M, age=32, phone=010-4949-9494, email=test2@test.org, enrollDate=2025-04-11, lastModified=2025-04-14, signType=direct, adminYN=N, loginOk=Y, photoFileName=user03_공유.webp], Member [userId=user02, userPwd=$2a$10$r1JNm1WvbCoBClfI.jf35eEBBiEpEiUmBrWWTX3SRv0MK2kYERf1m, userName=신사임당, gender=F, age=45, phone=010-4545-9999, email=dano99@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null], Member [userId=user01, userPwd=$2a$10$WYT8VXehR4FdMdeqMXHK3OeIkBFtisQrJFnw6p5eYnLFGDVADK7LK, userName=홍길동, gender=M, age=25, phone=010-1234-5678, email=hong1234@ncs.kr, enrollDate=2025-04-11, lastModified=2025-04-11, signType=direct, adminYN=N, loginOk=Y, photoFileName=null]]
+[15:52:47][INFO ][BoardController.java: 35] - btop3.do run...
+[15:52:47][INFO ][NoticeController.java: 49] - ntop3.do run...
+[15:52:47][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:52:47][INFO ][NoticeController.java: 53] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[15:52:49][INFO ][BoardController.java: 35] - btop3.do run...
+[15:52:49][INFO ][NoticeController.java: 49] - ntop3.do run...
+[15:52:49][INFO ][BoardController.java: 39] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[15:52:49][INFO ][NoticeController.java: 53] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[15:52:53][INFO ][MemberController.java: 456] - mlist.do : []
+[15:53:37][INFO ][MemberController.java: 456] - mlist.do : []
+[15:53:49][INFO ][MemberController.java: 456] - mlist.do : []
+[15:54:32][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:54:33][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 571 ms
+[15:54:33][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:54:34][INFO ][FrameworkServlet.java: 554] - Completed initialization in 798 ms
+[15:54:36][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[15:54:36][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 666 ms
+[15:54:36][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[15:54:37][INFO ][FrameworkServlet.java: 554] - Completed initialization in 907 ms
+[15:58:51][WARN ][DispatcherServlet.java: 1301] - No mapping for GET /first/blist.do
+[15:58:51][WARN ][DefaultHandlerExceptionResolver.java: 459] - No endpoint GET /first/blist.do.
+[16:02:12][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:02:13][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 550 ms
+[16:02:13][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:02:14][INFO ][FrameworkServlet.java: 554] - Completed initialization in 845 ms
+[16:12:56][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:12:57][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 493 ms
+[16:12:57][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:12:58][INFO ][FrameworkServlet.java: 554] - Completed initialization in 709 ms
+[16:27:22][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:27:23][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 467 ms
+[16:27:23][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:27:24][INFO ][FrameworkServlet.java: 554] - Completed initialization in 757 ms
+[16:28:18][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:28:18][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 467 ms
+[16:28:18][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:28:19][INFO ][FrameworkServlet.java: 554] - Completed initialization in 765 ms
+[16:28:52][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:28:52][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 495 ms
+[16:28:52][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:28:53][INFO ][FrameworkServlet.java: 554] - Completed initialization in 729 ms
+[16:30:08][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:30:09][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 473 ms
+[16:30:09][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:30:09][INFO ][FrameworkServlet.java: 554] - Completed initialization in 718 ms
+[16:35:31][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:35:32][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 513 ms
+[16:35:32][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:35:32][INFO ][FrameworkServlet.java: 554] - Completed initialization in 720 ms
+[16:46:46][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:46:46][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 452 ms
+[16:46:46][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:46:47][INFO ][FrameworkServlet.java: 554] - Completed initialization in 726 ms
+[16:47:03][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:47:04][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 732 ms
+[16:47:04][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:47:05][INFO ][FrameworkServlet.java: 554] - Completed initialization in 987 ms
+[16:47:08][INFO ][BoardController.java: 38] - btop3.do run...
+[16:47:08][INFO ][NoticeController.java: 49] - ntop3.do run...
+[16:47:09][INFO ][NoticeController.java: 53] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[16:47:09][INFO ][BoardController.java: 42] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[16:47:10][INFO ][NoticeController.java: 49] - ntop3.do run...
+[16:47:10][INFO ][BoardController.java: 38] - btop3.do run...
+[16:47:10][INFO ][BoardController.java: 42] - btop3.do list : [Board [boardNum=7, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=123, boardDate=null], Board [boardNum=3, boardWriter=null, boardTitle=설계방식2, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=77, boardDate=null], Board [boardNum=10, boardWriter=null, boardTitle=설계방식3, boardContent=null, boardOriginalFileName=null, boardRenameFileName=null, boardRef=0, boardReplyRef=0, boardLev=0, boardReplySeq=0, boardReadCount=12, boardDate=null]]
+[16:47:10][INFO ][NoticeController.java: 53] - ntop3 list : [Notice [noticeNo=1, noticeTitle=공지 서비스 오픈, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=2, noticeTitle=공지 서비스 오픈2, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0], Notice [noticeNo=3, noticeTitle=공지 서비스 오픈3, noticeDate=2025-04-11, noticeWriter=null, noticeContent=null, originalFilePath=null, renameFilePath=null, importance=null, impEndDate=null, readCount=0]]
+[16:55:37][INFO ][ContextLoader.java: 255] - Root WebApplicationContext: initialization started
+[16:55:38][INFO ][ContextLoader.java: 288] - Root WebApplicationContext initialized in 660 ms
+[16:55:38][INFO ][FrameworkServlet.java: 532] - Initializing Servlet 'appServlet'
+[16:55:39][INFO ][FrameworkServlet.java: 554] - Completed initialization in 999 ms
